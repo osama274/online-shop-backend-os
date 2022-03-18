@@ -1,0 +1,162 @@
+[{
+  "_id": {
+    "$oid": "61f90b1f71fe3fd41cb7a667"
+  },
+  "firstName": "Anonymous",
+  "lastName": "User",
+  "accessGroups": "loggedOutUsers",
+  "login": "anonymousUser"
+},{
+  "_id": {
+    "$oid": "620a36b6265ac77c3abd01e4"
+  },
+  "firstName": "Ivy",
+  "lastName": "Miller",
+  "login": "ivymiller",
+  "photo": "may-gauthier-TACdQo62To0-unsplash.jpg",
+  "email": "ivymiller@floralgarden.com",
+  "hash": "$2b$08$2q4uyAAm6K6yjGdLNHfjv.XMMT382Qw24tq5QeP4Guw05IkkOHsxS",
+  "accessGroups": "loggedInUsers,members",
+  "createdAt": {
+    "$date": "2022-02-14T11:02:14.315Z"
+  },
+  "updatedAt": {
+    "$date": "2022-02-21T14:18:59.780Z"
+  }
+},{
+  "_id": {
+    "$oid": "620a378d265ac77c3abd01e6"
+  },
+  "firstName": "Dahlia",
+  "lastName": "O'Sullivan",
+  "login": "dahliaosullivan",
+  "photo": "michael-dam-mEZ3PoFGs_k-unsplash.jpg",
+  "email": "dahliaosullivan@floralgarden.com",
+  "hash": "$2b$08$XYAcfftL6n6NTfxUOSFDAuPMyFaEDAraxzjMBQn1xtLZOwbIgnKhO",
+  "accessGroups": "loggedInUsers,members",
+  "createdAt": {
+    "$date": "2022-02-14T11:05:49.120Z"
+  },
+  "updatedAt": {
+    "$date": "2022-02-21T14:19:00.604Z"
+  }
+},{
+  "_id": {
+    "$oid": "620d1a7a5ce189f7db5fa746"
+  },
+  "firstName": "newadmin",
+  "lastName": "newadmin",
+  "login": "newadmin",
+  "photo": "default.png",
+  "email": "admin@admin.de",
+  "hash": "$2b$08$Gg4DUgoZoP4RLtfylH1cFepzGBlAC0Ymz05mijIdNQ8PqD3GoZfmi",
+  "accessGroups": "loggedInUsers, admins",
+  "createdAt": {
+    "$date": "2022-02-16T15:38:34.680Z"
+  },
+  "updatedAt": {
+    "$date": "2022-02-16T15:38:34.680Z"
+  }
+},{
+  "_id": {
+    "$oid": "6213ae4c94beae2144efb304"
+  },
+  "firstName": "Cynthia",
+  "lastName": "Cornelissen",
+  "login": "cynthiacornelissen",
+  "photo": "aleksandr-minakov-xDyqR14KyAs-unsplash.jpg",
+  "email": "cynthiacornelissen@floralgarden.com",
+  "hash": "$2b$08$EOW6cYkrHlCVmk39qbZcq.Pq3pp0UM1fB.nEWLD/xoUhRDJEhUNkq",
+  "accessGroups": "loggedInUsers, members",
+  "createdAt": {
+    "$date": "2022-02-21T15:22:52.801Z"
+  },
+  "updatedAt": {
+    "$date": "2022-02-21T15:22:52.801Z"
+  }
+},{
+  "_id": {
+    "$oid": "6215f62c54299d6605123103"
+  },
+  "firstName": "Lily",
+  "lastName": "Smith",
+  "login": "lilysmith",
+  "photo": "christopher-campbell-rDEOVtE7vOs-unsplash.jpg",
+  "email": "lilysmith@floralgarden.com",
+  "hash": "$2b$08$.thplS46.9R1eeNeGyW3dOmTStAjGdcuujFx6yHCfRyHX8lHHB1ZK",
+  "accessGroups": "loggedInUsers, members",
+  "createdAt": {
+    "$date": "2022-02-23T08:54:04.782Z"
+  },
+  "updatedAt": {
+    "$date": "2022-02-23T08:54:04.782Z"
+  }
+},{
+  "_id": {
+    "$oid": "6215f86754299d660512310b"
+  },
+  "firstName": "Violet",
+  "lastName": "Johnson",
+  "login": "violetjohnson",
+  "photo": "jake-nackos-IF9TK5Uy-KI-unsplash.jpg",
+  "email": "violetjohnson@floralgarden.com",
+  "hash": "$2b$08$z0wkOzq1fZhSmO.USnbAPuU7FsiNj3dv/xd5gowsTvW0kSVzDOVGO",
+  "accessGroups": "loggedInUsers, members",
+  "createdAt": {
+    "$date": "2022-02-23T09:03:35.547Z"
+  },
+  "updatedAt": {
+    "$date": "2022-02-23T09:03:35.547Z"
+  }
+},{
+  "_id": {
+    "$oid": "6216af8f12784014109ae8d1"
+  },
+  "firstName": "Erica",
+  "lastName": "Svensson",
+  "login": "ericasvensson",
+  "photo": "alexandru-zdrobau-BGz8vO3pK8k-unsplash.jpg",
+  "email": "ericasvensson@floralgarden.com",
+  "hash": "$2b$08$DEKBwILyhzxX8.RPDFNlv.qxIUjl84/YcEU5rcImzA2P4WX.CSZ9q",
+  "accessGroups": "loggedInUsers, members",
+  "createdAt": {
+    "$date": "2022-02-23T22:05:03.916Z"
+  },
+  "updatedAt": {
+    "$date": "2022-02-23T22:05:03.916Z"
+  }
+},{
+  "_id": {
+    "$oid": "6216b0bb12784014109ae8d4"
+  },
+  "firstName": "Basil",
+  "lastName": "Danielopoulos",
+  "login": "basildanielopoulos",
+  "photo": "albert-dera-ILip77SbmOE-unsplash.jpg",
+  "email": "basildanielopoulos@floralgarden.com",
+  "hash": "$2b$08$.VDg19pMdjDZuIDYATGKQOKOerSy/5UYozq1CFjgIyqu2UN9anjS2",
+  "accessGroups": "loggedInUsers, members",
+  "createdAt": {
+    "$date": "2022-02-23T22:10:03.955Z"
+  },
+  "updatedAt": {
+    "$date": "2022-02-23T22:10:03.955Z"
+  }
+},{
+  "_id": {
+    "$oid": "6229b8557d7303df0ff659e8"
+  },
+  "firstName": "Luis",
+  "lastName": "Luis",
+  "login": "Lui",
+  "photo": "default.png",
+  "email": "luis@luis.com",
+  "hash": "$2b$08$07ZXWH32RN/TPOj7LLIcue4fd0p5ahcutfiqo6HqrUqS5GHFmpw2K",
+  "accessGroups": "loggedInUsers, members",
+  "createdAt": {
+    "$date": "2022-03-10T08:35:33.433Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-10T08:35:33.433Z"
+  }
+}]

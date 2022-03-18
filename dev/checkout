@@ -1,0 +1,399 @@
+[{
+  "_id": {
+    "$oid": "61fad602a0ffc0082d4929da"
+  },
+  "firstName": "Osama",
+  "lastName": "Al Haj Abdullah",
+  "state": "state",
+  "phone": 17662778984,
+  "city": "Berlin",
+  "zipcode": "zipcode",
+  "address": "address",
+  "email": "alhaj2904@gmail.com",
+  "hash": "$2b$10$1r/8KyYi3nCTQmw5QOtPjem4OVKnopx.1l9Olny1SXAG8AF5U2ROW",
+  "items": [
+    {
+      "_id": "61f90afb1146b3ba1ac4573f",
+      "name": "Orchidee Phalaenopsis",
+      "image": "/images/plants/phalaenopsis-potted-plant-orchid-2-stems__0900618_pe594594_s5.avif",
+      "image_small": "/images/plants/orchidee-two-of-us-pink_900x-removebg-preview.png",
+      "price": 10,
+      "light": "scattered light to semi-shade",
+      "winterHardness": "frost sensitive",
+      "nutrientRequirements": "low in nutrients",
+      "growthHeight": "from 10 cm to 40 cm",
+      "soilMoisture": "fresh to humid",
+      "description": "Fairytale pink flowers. The orchid 'Vienna' (Phalaenopsis multiflora) with 3 branches gives your living room a warm atmosphere. For a fairy tale in the house. The orchid can bloom two to three times a year.",
+      "abstract": "Fairytale pink flowers. The orchid 'Vienna' (Phalaenopsis multiflora).",
+      "location": "indoor",
+      "imageGallery": [
+        "phalaenopsis-potted-plant-orchid-2-stems__0900618_pe594594_s5.avif",
+        "phalaenopsis-potted-plant-orchid-2-stems__0654051_pe708274_s5.avif",
+        "phalaenopsis-potted-plant-orchid-2-stems__0900561_pe668147_s5.avif",
+        "phalaenopsis-potted-plant-orchid-2-stems__0900614_pe594526_s5.avif"
+      ],
+      "amount": 3
+    },
+    {
+      "_id": "61f90afb1146b3ba1ac4571b",
+      "name": "FICUS ELASTICA ",
+      "image": "/images/plants/ficus-elastica-potted-plant-rubber-plant-assorted__0899819_pe667992_s5.avif",
+      "image_small": "/images/plants/ficus-elastica-potted-plant-rubber-plant-assorted__0573876_pe667948_s5-removebg-preview_small.png",
+      "price": 39,
+      "light": "Scattered light",
+      "growthHeightt": "from 150 cm to 250 cm",
+      "soilMoisturee": "fresh to humid",
+      "description": "Dragon trees are attractive green plants, which botanically belong to the agave family (Agavoideae) within the asparagus family (Asparagaceae). Most species of the genus are native to the tropics and subtropics —from the Canary Islands across Africa and Asia to Australia. The botanical name is derived from the Greek word drakaina, which means something resembling a female dragon or snake. More than 100 years ago, a garden magazine pointed out the beauty and robustness of dragon trees. In our latitudes, a few species are well-known as houseplants and office plants with air purifying characteristics. The best-known representative of the genus is probably the Canarian dragon tree (Dracaena draco). One plant that is quite similar in its growth form is the cabbage palm (Cordyline australis). Botanically too, they are quite closely related.",
+      "abstract": "Dragon trees are attractive green plants, which botanically belong to the agave family (Agavoideae) within the asparagus family (Asparagaceae).",
+      "location": "trend",
+      "imageGallery": [
+        "ficus-elastica-potted-plant-rubber-plant-assorted__0899819_pe667992_s5.avif",
+        "ficus-elastica-potted-plant-rubber-plant-assorted__0899827_pe668070_s5.avif",
+        "ficus-elastica-potted-plant-rubber-plant-assorted__0522964_pe643543_s5.webp",
+        "ficus-elastica-potted-plant-rubber-plant-assorted__0902315_pe643542_s5.avif"
+      ],
+      "nutrientRequirements": "low in nutrients",
+      "winterHardness": "frost sensitive",
+      "growthHeight": "from 150 cm to 250 cm",
+      "soilMoisture": "fresh to humid",
+      "bulkSearchText": "FICUS ELASTICA |39|undefined|Dragon trees are attractive green plants, which botanically belong to the agave family (Agavoideae) within the asparagus family (Asparagaceae). Most species of the genus are native to the tropics and subtropics —from the Canary Islands across Africa and Asia to Australia. The botanical name is derived from the Greek word drakaina, which means something resembling a female dragon or snake. More than 100 years ago, a garden magazine pointed out the beauty and robustness of dragon trees. In our latitudes, a few species are well-known as houseplants and office plants with air purifying characteristics. The best-known representative of the genus is probably the Canarian dragon tree (Dracaena draco). One plant that is quite similar in its growth form is the cabbage palm (Cordyline australis). Botanically too, they are quite closely related.",
+      "amount": 3
+    },
+    {
+      "_id": "61f90afb1146b3ba1ac45729",
+      "name": "Ficus Benjamina",
+      "image": "/images/plants/Braided_Benjamina_ficus_FBB_2_720x.jpg",
+      "image_small": "/images/plants/ficus-benjamina-istockphoto-1278906674-170667a_small.png",
+      "price": 70,
+      "light": "scattered light",
+      "winterHardness": "conditionally hardy",
+      "nutrientRequirements": "low in nutrients",
+      "growthHeight": "from 100 cm to 250 cm",
+      "soilMoisture": "fresh to humid",
+      "description": " The birch fig ( Ficus benjamina ), is a plant species from the mulberry family (Moraceae). This species is native to Nepal , northern India , Bangladesh , Burma , southern China , from Malaysia to the Solomon Islands , and northern tropical Australia.",
+      "abstract": "The birch fig ( Ficus benjamina ), is a plant species from the mulberry family (Moraceae).",
+      "location": "trend",
+      "imageGallery": [
+        "Braided_Benjamina_ficus_FBB_2_720x.jpg",
+        "shopping (1).webp",
+        "pl2000034573.webp",
+        "shopping.webp"
+      ],
+      "bulkSearchText": "Ficus Benjamina|70|undefined| The birch fig ( Ficus benjamina ), is a plant species from the mulberry family (Moraceae). This species is native to Nepal , northern India , Bangladesh , Burma , southern China , from Malaysia to the Solomon Islands , and northern tropical Australia.",
+      "amount": 1
+    }
+  ],
+  "createdAt": {
+    "$date": "2022-02-02T19:05:38.232Z"
+  },
+  "updatedAt": {
+    "$date": "2022-02-02T19:05:38.232Z"
+  }
+},{
+  "_id": {
+    "$oid": "621648246280fd71d3946933"
+  },
+  "firstName": "Ammar",
+  "lastName": "Bakkar",
+  "state": "Deutschland",
+  "phone": 1629228945,
+  "city": "Elmshorn",
+  "zipcode": "25335",
+  "address": "Lornsenstrasse50",
+  "email": "amarbakar33@gmail.com",
+  "items": [
+    {
+      "_id": "61fa702cc122f30c0a60adbc",
+      "name": "Polyscias Potted",
+      "image": "/images/plants/polyscias-potted-plant-aralia-assorted__0902074_pe657456_s5.avif",
+      "image_small": "/images/plants/Fiederaralie_1-removebg-preview.png",
+      "image_second": "/images/plants/ficus-elastica-potted-plant-rubber-plant-assorted__0573876_pe667948_s5-removebg-preview_small.png",
+      "price": 45,
+      "light": "scattered light to semi-shade",
+      "winterHardness": "frost sensitive",
+      "nutrientRequirements": "low in nutrients",
+      "growthHeight": "from 50 cm to 300 cm",
+      "soilMoisture": "fresh to humid",
+      "description": "Polyscias Potted deliciosa, the Swiss cheese plant,is a species of flowering plant native to tropical forests of southern Mexico, south to Panama.It has been introduced to many tropical areas, and has become a mildly invasive species in Hawaii, Seychelles, Ascension Island and the Society Islands. It is very widely grown in temperate zones as a houseplant.",
+      "abstract": "Polyscias Potted deliciosa, the Swiss cheese plant,is a species of flowering plant native to tropical forests of southern Mexico, south to Panama",
+      "location": "trend",
+      "imageGallery": [
+        "polyscias-potted-plant-aralia-assorted__0902066_pe654276_s5.avif",
+        "polyscias-potted-plant-aralia-assorted__0902074_pe657456_s5.avif",
+        "polyscias-potted-plant-aralia-assorted__0901023_pe707626_s5.webp",
+        "polyscias-potted-plant-aralia-assorted__0548635_pe657314_s5.avif"
+      ],
+      "amount": 2
+    }
+  ],
+  "createdAt": {
+    "$date": "2022-02-23T14:43:48.112Z"
+  },
+  "updatedAt": {
+    "$date": "2022-02-23T14:43:48.112Z"
+  }
+},{
+  "_id": {
+    "$oid": "62179bc70e0cfb70acb4ba2e"
+  },
+  "firstName": "Eliza",
+  "lastName": "Arzanukaeva",
+  "state": "tweztwr",
+  "phone": 3333333333,
+  "city": "Hamburg",
+  "zipcode": "22549",
+  "address": "Ham",
+  "email": "eliza.arzanukaeva@gmail.com",
+  "items": [
+    {
+      "_id": "620a2f5ddd4ead59a1a67594",
+      "name": "Pachira Aquatica",
+      "image": "/images/plants/pachira-aquatica-pflanze-glueckskastanie__0899762_pe594238_s5.avif",
+      "image_small": "/images/plants/pachira-aquatica-potted-plant-guinea-chestnut__0653983_pe708212_s5_small.png",
+      "image_second": "/images/plants/pachira-aquatica-pflanze-glueckskastanie__0899499_pe700360_s5.avif",
+      "price": 9,
+      "light": "scattered light to semi-shade",
+      "winterHardness": "conditionally hardy",
+      "nutrientRequirements": "low in nutrients",
+      "growthHeight": "from 40 cm to 80 cm",
+      "soilMoisture": "fresh to humid",
+      "description": "The houseplant known as the Cast iron or bar room plant is the species Pachira Aquatica elatior from the Pachira Aquatica genus. This plant genus has over 90 species and belong to the Asparagaceae family. It originates from the forests of China and Japan. The Cast iron plant quickly established itself across all of Europe as a ubiquitous houseplant thanks to its robustness and uncomplicated care requirements, and enjoys a reputation as an indestructible houseplant. The leafy plant is often used as decoration in offices, restaurants and stores in particular (which is why it is often sometimes known as the bar room plant). Its long leaves are also used by florists as foliage ornamentation.",
+      "abstract": "The houseplant known as the Cast iron or bar room plant is the species Pachira Aquatica elatior from the Pachira Aquatica genus.",
+      "location": "trend",
+      "imageGallery": [
+        "pachira-aquatica-pflanze-glueckskastanie__0108238_pe257939_s5.avif",
+        "pachira-aquatica-pflanze-glueckskastanie__0653983_pe708212_s5.webp",
+        "pachira-aquatica-pflanze-glueckskastanie__0899499_pe700360_s5.avif",
+        "pachira-aquatica-pflanze-glueckskastanie__0899762_pe594238_s5.avif"
+      ],
+      "rating": [
+        {
+          "customer": "Müller",
+          "star": 3,
+          "comment": "good plant"
+        },
+        {
+          "customer": "Scholz",
+          "star": 4,
+          "comment": "very good plant"
+        },
+        {
+          "customer": "Merkel",
+          "star": 5,
+          "comment": "nice plant"
+        }
+      ],
+      "bulkSearchText": "Pachira Aquatica|9|undefined|The houseplant known as the Cast iron or bar room plant is the species Pachira Aquatica elatior from the Pachira Aquatica genus. This plant genus has over 90 species and belong to the Asparagaceae family. It originates from the forests of China and Japan. The Cast iron plant quickly established itself across all of Europe as a ubiquitous houseplant thanks to its robustness and uncomplicated care requirements, and enjoys a reputation as an indestructible houseplant. The leafy plant is often used as decoration in offices, restaurants and stores in particular (which is why it is often sometimes known as the bar room plant). Its long leaves are also used by florists as foliage ornamentation.",
+      "starRatings": [
+        {
+          "_id": "6214273345231301487360f0",
+          "plantName": "Pachira Aquatica",
+          "star": 2,
+          "customer": "D.K.B",
+          "message": "get sick alot",
+          "plantId": "620a2f5ddd4ead59a1a67594",
+          "createdAt": "2022-02-21T23:58:43.999Z",
+          "updatedAt": "2022-02-21T23:58:43.999Z"
+        }
+      ],
+      "averageRating": 2,
+      "amount": 3
+    }
+  ],
+  "createdAt": {
+    "$date": "2022-02-24T14:52:55.756Z"
+  },
+  "updatedAt": {
+    "$date": "2022-02-24T14:52:55.756Z"
+  }
+},{
+  "_id": {
+    "$oid": "62179e300e0cfb70acb4ba3a"
+  },
+  "firstName": "M.B.D",
+  "lastName": "Müller",
+  "state": "Berlin",
+  "phone": 12345676555,
+  "city": "Berlin",
+  "zipcode": "12343",
+  "address": "Berlin",
+  "email": "Mbc@gmail.com",
+  "items": [
+    {
+      "_id": "620a2f5ddd4ead59a1a675a9",
+      "name": "Spathiphyllum ",
+      "image": "/images/plants/spathiphyllum-potted-plant-peace-lily__0900037_pe594593_s5.avif",
+      "image_small": "/images/plants/spathiphyllum-potted-plant-peace-lily-removebg-preview.png",
+      "image_second": "/images/plants/peace-lily-154522.jpg",
+      "price": 18,
+      "light": "scattered light to semi-shade",
+      "winterHardness": "frost sensitive",
+      "nutrientRequirements": "low in nutrients",
+      "growthHeight": "from 1 m to 2,5 m",
+      "soilMoisture": "fresh to humid",
+      "description": "Is a flowering plant species that is native throughout tropical Africa, from Sudan south to Mozambique, west to Côte d'Ivoire and southwest to Angola",
+      "abstract": "A flowering plant species that is native throughout tropical.",
+      "location": "indoor",
+      "imageGallery": [
+        "spathiphyllum-potted-plant-peace-lily__0900037_pe594593_s5.avif",
+        "peace-lily-154522.jpg",
+        "spathiphyllum-potted-plant-peace-lily__0900033_pe594532_s5.avif",
+        "spathiphyllum-potted-plant-peace-lily__0108242_pe257943_s5.avif"
+      ],
+      "rating": [
+        {
+          "customer": "Müller",
+          "star": 3,
+          "comment": "good plant"
+        },
+        {
+          "customer": "Scholz",
+          "star": 4,
+          "comment": "very good plant"
+        },
+        {
+          "customer": "Merkel",
+          "star": 5,
+          "comment": "nice plant"
+        }
+      ],
+      "bulkSearchText": "Spathiphyllum |18|undefined|Is a flowering plant species that is native throughout tropical Africa, from Sudan south to Mozambique, west to Côte d'Ivoire and southwest to Angola",
+      "starRatings": [
+        {
+          "_id": "6213a0e73de3ad7db667ce43",
+          "plantName": "Spathiphyllum ",
+          "star": 5,
+          "customer": "osama",
+          "message": "cxycyx",
+          "plantId": "620a2f5ddd4ead59a1a675a9",
+          "createdAt": "2022-02-21T14:25:43.192Z",
+          "updatedAt": "2022-02-21T14:25:43.192Z"
+        },
+        {
+          "_id": "621540c6f70885daeca17467",
+          "plantName": "Spathiphyllum ",
+          "star": 3,
+          "customer": "hallo",
+          "message": "gjhgj",
+          "plantId": "620a2f5ddd4ead59a1a675a9",
+          "createdAt": "2022-02-22T20:00:06.259Z",
+          "updatedAt": "2022-02-22T20:00:06.259Z"
+        }
+      ],
+      "averageRating": 4,
+      "amount": 1
+    },
+    {
+      "_id": "620a2f5ddd4ead59a1a675ae",
+      "name": "Cycas Revoluta ",
+      "image": "/images/plants/fd15699wh.jpg",
+      "image_small": "/images/plants/cycas-revoluta-cycad-33l-image1-402180-removebg-preview.png",
+      "image_second": "/images/plants/cycas-revoluta-cycad-33l-image1-402180-removebg-preview.png",
+      "price": 59,
+      "light": "scattered light",
+      "winter Hardness": "conditionally hardy",
+      "nutrient requirements": "low in nutrients",
+      "growthHeightt": "from 150 cm to 250 cm",
+      "soilMoisturee": "fresh to humid",
+      "description": "Dragon trees are attractive green plants, which botanically belong to the agave family (Agavoideae) within the asparagus family (Asparagaceae). Most species of the genus are native to the tropics and subtropics —from the Canary Islands across Africa and Asia to Australia. The botanical name is derived from the Greek word drakaina, which means something resembling a female dragon or snake. More than 100 years ago, a garden magazine pointed out the beauty and robustness of dragon trees. In our latitudes, a few species are well-known as houseplants and office plants with air purifying characteristics. The best-known representative of the genus is probably the Canarian dragon tree (Dracaena draco). One plant that is quite similar in its growth form is the cabbage palm (Cordyline australis). Botanically too, they are quite closely related.",
+      "abstract": "Dragon trees are attractive green plants, which botanically belong to the agave family (Agavoideae) within the asparagus family (Asparagaceae).",
+      "location": "trend",
+      "imageGallery": [
+        "459140_1.jpg",
+        "43506-palmfarn-cycas-revoluta-75cm.jpg",
+        "cycas-revoluta-cycad-33l-image1-402180.jpg",
+        "fd15699wh.jpg"
+      ],
+      "rating": [
+        {
+          "customer": "Müller",
+          "star": 3,
+          "comment": "good plant"
+        },
+        {
+          "customer": "Scholz",
+          "star": 4,
+          "comment": "very good plant"
+        },
+        {
+          "customer": "Merkel",
+          "star": 5,
+          "comment": "nice plant"
+        }
+      ],
+      "bulkSearchText": "Cycas Revoluta |59|undefined|Dragon trees are attractive green plants, which botanically belong to the agave family (Agavoideae) within the asparagus family (Asparagaceae). Most species of the genus are native to the tropics and subtropics —from the Canary Islands across Africa and Asia to Australia. The botanical name is derived from the Greek word drakaina, which means something resembling a female dragon or snake. More than 100 years ago, a garden magazine pointed out the beauty and robustness of dragon trees. In our latitudes, a few species are well-known as houseplants and office plants with air purifying characteristics. The best-known representative of the genus is probably the Canarian dragon tree (Dracaena draco). One plant that is quite similar in its growth form is the cabbage palm (Cordyline australis). Botanically too, they are quite closely related.",
+      "starRatings": [],
+      "averageRating": null,
+      "amount": 1
+    }
+  ],
+  "createdAt": {
+    "$date": "2022-02-24T15:03:12.532Z"
+  },
+  "updatedAt": {
+    "$date": "2022-02-24T15:03:12.532Z"
+  }
+},{
+  "_id": {
+    "$oid": "62324eead6e508d79d1f0ada"
+  },
+  "firstName": "Ammar",
+  "lastName": "Bakkar",
+  "state": "Deutschland",
+  "phone": 1629228945,
+  "city": "Elmshorn",
+  "zipcode": "25335",
+  "address": "Lornsenstrasse50",
+  "email": "amarbakar33@gmail.com",
+  "items": [
+    {
+      "_id": "620a2f5ddd4ead59a1a67594",
+      "name": "Pachira Aquatica",
+      "image": "/images/plants/pachira-aquatica-pflanze-glueckskastanie__0899762_pe594238_s5.avif",
+      "image_small": "/images/plants/pachira-aquatica-potted-plant-guinea-chestnut__0653983_pe708212_s5_small.png",
+      "image_second": "/images/plants/pachira-aquatica-pflanze-glueckskastanie__0899499_pe700360_s5.avif",
+      "price": 9,
+      "light": "scattered light to semi-shade",
+      "winterHardness": "conditionally hardy",
+      "nutrientRequirements": "low in nutrients",
+      "growthHeight": "from 40 cm to 80 cm",
+      "soilMoisture": "fresh to humid",
+      "description": "The houseplant known as the Cast iron or bar room plant is the species Pachira Aquatica elatior from the Pachira Aquatica genus. This plant genus has over 90 species and belong to the Asparagaceae family. It originates from the forests of China and Japan. The Cast iron plant quickly established itself across all of Europe as a ubiquitous houseplant thanks to its robustness and uncomplicated care requirements, and enjoys a reputation as an indestructible houseplant. The leafy plant is often used as decoration in offices, restaurants and stores in particular (which is why it is often sometimes known as the bar room plant). Its long leaves are also used by florists as foliage ornamentation.",
+      "abstract": "The houseplant known as the Cast iron or bar room plant is the species Pachira Aquatica elatior from the Pachira Aquatica genus.",
+      "location": "trend",
+      "imageGallery": [
+        "pachira-aquatica-pflanze-glueckskastanie__0108238_pe257939_s5.avif",
+        "pachira-aquatica-pflanze-glueckskastanie__0653983_pe708212_s5.webp",
+        "pachira-aquatica-pflanze-glueckskastanie__0899499_pe700360_s5.avif",
+        "pachira-aquatica-pflanze-glueckskastanie__0899762_pe594238_s5.avif"
+      ],
+      "rating": [
+        {
+          "customer": "Müller",
+          "star": 3,
+          "comment": "good plant"
+        },
+        {
+          "customer": "Scholz",
+          "star": 4,
+          "comment": "very good plant"
+        },
+        {
+          "customer": "Merkel",
+          "star": 5,
+          "comment": "nice plant"
+        }
+      ],
+      "bulkSearchText": "Pachira Aquatica|9|undefined|The houseplant known as the Cast iron or bar room plant is the species Pachira Aquatica elatior from the Pachira Aquatica genus. This plant genus has over 90 species and belong to the Asparagaceae family. It originates from the forests of China and Japan. The Cast iron plant quickly established itself across all of Europe as a ubiquitous houseplant thanks to its robustness and uncomplicated care requirements, and enjoys a reputation as an indestructible houseplant. The leafy plant is often used as decoration in offices, restaurants and stores in particular (which is why it is often sometimes known as the bar room plant). Its long leaves are also used by florists as foliage ornamentation.",
+      "starRatings": [],
+      "averageRating": null,
+      "amount": 5
+    }
+  ],
+  "createdAt": {
+    "$date": "2022-03-16T20:56:10.506Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-16T20:56:10.506Z"
+  }
+}]

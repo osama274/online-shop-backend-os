@@ -1,0 +1,61 @@
+[{
+  "_id": {
+    "$oid": "61f961b3fae414ee19c8a0e2"
+  },
+  "review": "These flowers were a gift to someone. They were excellent and after a few weeks they still look like when they were delivered! They have a nice fragrance and make the room smell nice. Thank you so much for the excellent quality of these flowers!",
+  "rating": 5,
+  "user": {
+    "$oid": "620a378d265ac77c3abd01e6"
+  },
+  "product": {
+    "$oid": "61fa702cc122f30c0a60adbc"
+  },
+  "date": {
+    "$date": "2021-12-31T23:00:00Z"
+  }
+},{
+  "_id": {
+    "$oid": "61f961b3fae414ee19c8a0e3"
+  },
+  "review": "Very pleased! The tree I received today is in beautiful shape, and was extremely well packed. First of this kind of plant I've ever had, so wish me luck! On arrival though it appears to be in very healthy shape.",
+  "rating": 4,
+  "user": {
+    "$oid": "620a36b6265ac77c3abd01e4"
+  },
+  "product": {
+    "$oid": "61fa702cc122f30c0a60adbd"
+  },
+  "date": {
+    "$date": "2021-12-12T23:00:00Z"
+  }
+},{
+  "_id": {
+    "$oid": "61f961b3fae414ee19c8a0e4"
+  },
+  "review": "I was skeptical about buying a plant online but I'm so glad I did! I bought this plants as a gift but I set it next to my bed and I just keep looking over at it and smiling. It's so cute. I think I'm just going to keep it for myself 😁",
+  "rating": 5,
+  "user": {
+    "$oid": "6215f62c54299d6605123103"
+  },
+  "product": {
+    "$oid": "61fa702cc122f30c0a60adbe"
+  },
+  "date": {
+    "$date": "2022-01-24T23:00:00Z"
+  }
+},{
+  "_id": {
+    "$oid": "62043cc20a2e4c792450c67b"
+  },
+  "review": "We’ve ordered quite a few plants and they do a beautiful job! The plant arrived perfectly packaged and had no stress from shipping. The plant even came with a beautiful white pot and small pebbles on top of the soil. This would make a beautiful gift for someone special. ",
+  "rating": 5,
+  "user": {
+    "$oid": "6215f86754299d660512310b"
+  },
+  "product": {
+    "$oid": "61fa702cc122f30c0a60adbc"
+  },
+  "date": {
+    "$date": "2022-02-03T23:00:00Z"
+  }
+}]
