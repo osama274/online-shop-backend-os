@@ -1,0 +1,40 @@
+@url = http://localhost:3335
+
+###
+GET {{url}}/currentuser
+Content-Type: application/json
+
+###
+POST {{url}}/login
+Content-Type: application/json
+
+{
+    "login": "user.lastName",
+    "password":"12345"
+}
+
+### DELET USER
+ DELETE  {{url}}/deleteuser
+Content-Type: application/json 
+
+{ "_id": "61b908a0c6805694b27f2e5b"}
+
+### SIGNUP
+POST {{url}}/signup
+Content-Type: application/json
+
+{
+	"user":{
+    "firstName": "admin",
+    "lastName": "admin",
+    "login": "admin",
+    "email":" alhaj2904@gmial.com",
+    "password1": "12345",
+    "password2": "12345",
+    "accessGroups": "loggedInUsers, admins, members"
+  }
+}
+
+
+  
+

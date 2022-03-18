@@ -1,0 +1,4 @@
+mongoimport --db online-shop --collection users --type json --file users.json --jsonArray
+mongoimport --db online-shop --collection plants --type json --file plants.json --jsonArray
+mongoimport --db online-shop --collection checkouts --type json --file checkouts.json --jsonArray
+test merge mit dev branch
